@@ -2,122 +2,68 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Introduction
+* Results-driven Data Scientist and Deep Learning researcher with an exceptional track record of optimizing operations and reducing costs.
+* Proficient in Python, PyTorch, SQL, PYOMO, Gurobi, CPLEX, C/C++, MATLAB programming.
+* Expertise in real-time scheduling, resulting in multiple high-quality publications and dynamic presentations.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Education
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+| Ph.D., Electrical & Computer Engineering | Forida International University  | May 2022 |
+| M.E., Electronics (Digital Systems)      | Savitribai Phule Pune University | Sep 2013 |                   
+| B.E., Electronics & Telecommunication    | Savitribai Phule Pune University | Aug 2010 |
 
-```
-The final element.
-```
+
+
+## Work Experience
+**Data Scientist | Crowley, Jacksonville, FL, US | June 2022 – Current**
+- Demonstrated exceptional proficiency in prescriptive analytics, particularly in optimization problem formulation, resulting in a noteworthy 3%–4% cost savings for the strategic repositioning of the empty containers. 
+- Demonstrated rapid learning capabilities by swiftly acquiring expertise in natural language processing, leading to the development of a private and secure LLM-based chatbot prototype through adept rapid prototyping.
+- Leveraged SQL skills to fetch, join, clean and preprocess complex data from multiple sources, implementing non-periodic time series predictive model training/deployment contributing to 2% increase in bookings count, customer experience and retention. 
+- Brainstorming to share expert advice, statistical analysis to recognize patterns, data interpretation, and advanced machine learning resulted in the building and training of the prototype for predicting tugboat engine maintenance.
+- Ability to work in a fast-paced environment and skills to handle poor quality data resulted in rapidly debugging and scaling existing overbooking prediction model.
+- Demonstrated strong communication skills and applied computer vision expertise in the implementation of port gate automation, effectively capturing chassis numbers attached to trucks.
+
+
+**Graduate Researcher | Florida International University, Miami, FL, US | August 2018 – April 2022**
+- Skills in developing deterministic and testable code with expertise in real-time system design as evidenced by novel temperature estimation framework for vehicle Electronic Control Units (ECUs).
+- Ability to review others work and solid advanced mathematics fundamentals invented Deep Neural Network sensitivity analysis method for accuracy maximization by 0.5 – 4.2% for standard architectures and datasets.
+- Innovative thinking, knowledge of statistics, and optimization skills demonstrated by thermal-aware mapping of Deep Neural Network neurons on 3D memory banks for accuracy maximization in the range 0.18 – 47.91%.
+
+
+**Technical Consultant | Sujlam Electronics, Baramati, MH, India | March 2016 – December 2017**
+- Sensor interface debugging skills and experience of embedded firmware development led to the detection of dry-run problems, guiding the high performance and flexible control circuitry development.
+- Excellent communication and collaborative team player skills, and experience of writing peripheral drivers as demonstrated by 7% lower cost electrical pump protection product than competitors.
+
+
+**Assistant Professor | Savitribai Phule Pune University, Baramati, MH, India | July 2013 – July 2018**
+- Experience of mapping Image Processing algorithms on FPGAs resulted in a research project grant of INR 170K.
+- Creative thinking and experience of development using Real-Time Operating System kernel with micro-controllers resulted in new lab instructions for Advanced Processors course. 
+
+
+
+## Technical Skill Set
+Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.
+
+
+
+## Awards and Recognition
+- Crowley TOPS awards for displaying high performance value in September 2022, August 2023 and Jan 2024.
+- Featured in Crowley's blog post ["Data-driven Decision-making in the Supply Chain."](https://www.crowley.com/news-and-media/culture/data-driven-decision-making-in-the-supply-chain/)
+- Dissertation Year Fellowship award for Fall 2021 and Spring 2022 semesters by Florida International University.
+
+
+
+## Extra Curricular Activities
+- Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
+- Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.
+- Invited speaker for presentation on “Higher Education and Career Opportunities in the United States” in Tuljaram Chaturchand College, Baramati, MH, India, Feb 2023.
+- Judged abstracts for the “Graduate Students Appreciation Week,” assessing research methods, results and limitations at Florida International University FL, USA, Feb 2021,
+- Invited speaker for presentation on “Emerging Trends and Technology in Electronics” in National webinar at Tuljaram Chaturchand College, Baramati, MH, India, Feb 2021.
+- Presented research paper in “2020 IEEE 38th International Conference on Computer Design (ICCD),” Hartford, CT, USA, Oct 2020.
+- Judged poster presentations for the event “CURFIU 2019,” assessing visual appeal, content clarity, and presentation effectiveness at Florida International University, FL, USA, Apr 2019.
+
+

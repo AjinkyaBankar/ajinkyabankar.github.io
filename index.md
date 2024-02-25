@@ -52,7 +52,7 @@ layout: default
 
 * * *
 
-- **Generative AI-Based Data Analysis for Evaluation of Variations in XPS Characteristics of MoS** - I developed a Large Language Model (LLM)-based assistant to aid my friend's research on MoS2 material. The XPS analysis for conformance of MoS2 revealed that there is significant variation in the Mo3d and S2p plots. The LLM assistant streamlines processes and enhances accuracy in XPS analysis. More details are available in the research paper [here](https://ieeexplore.ieee.org/document/10431152). 
+- **Generative AI-Based Data Analysis for Evaluation of Variations in XPS Characteristics of MoS** - I developed a Large Language Model (LLM)-based assistant to aid my friend's research on MoS2 material. The XPS analysis for conformance of MoS2 revealed that there is significant variation in the Mo3d and S2p plots. The LLM assistant streamlines processes and enhances accuracy in XPS analysis. More details are available in the research paper [here](https://ieeexplore.ieee.org/document/10431152){:target="_blank"}. 
 ![LLM](/assets/img/rag.png)
 
 * * *
@@ -72,7 +72,7 @@ layout: default
 
 * * *
 
-- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to explore stock fundamentals freely - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app).
+- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to explore stock fundamentals freely - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app){:target="_blank"}.
 ![Fundamental Analysis](/assets/img/stock_price.jpg)
 
 * * *
@@ -85,7 +85,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 
 ## Awards and Recognition
 - Crowley TOPS awards for displaying high performance value in September 2022, August 2023 and Jan 2024.
-- Featured in Crowley's blog post ["Data-driven Decision-making in the Supply Chain."](https://www.crowley.com/news-and-media/culture/data-driven-decision-making-in-the-supply-chain/)
+- Featured in Crowley's blog post ["Data-driven Decision-making in the Supply Chain."](https://www.crowley.com/news-and-media/culture/data-driven-decision-making-in-the-supply-chain/){:target="_blank"}
 - Dissertation Year Fellowship award for Fall 2021 and Spring 2022 semesters by Florida International University.
 
 
@@ -108,7 +108,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: {{ page.last_modified_at | date: '%d-%B-%Y' }}</span>
+<span style="font-size:0.7em;">Last updated: 25-February-2024</span>
 
                                                               
                                                               

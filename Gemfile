@@ -20,7 +20,7 @@ gem "jemoji"
 gem "kramdown-parser-gfm"
 
 # open url in a new browser tab
-gem 'jekyll-target-blank'
+# gem 'jekyll-target-blank'
 
 
-gem "jekyll-last-modified-at"
+# gem "jekyll-last-modified-at"

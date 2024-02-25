@@ -45,6 +45,16 @@ layout: default
 
 
 
+## Projects
+- **Emotion Recognition from Voice using NLP** - This innovative project employs Natural Language Processing (NLP) to analyze emotions from voice recordings by leveraging Google's speech-to-text API, enabling accurate emotion decoding. Through advanced machine learning algorithms based on Ekman's six basic emotions model, including happiness, sadness, anger, fear, disgust, and surprise, the system interprets emotions intuitively. With applications in mental health support, customer feedback analysis, and interactive voice systems, recognizing emotions from voice enhances interaction quality, enables personalized responses, and offers insights for decision-making.
+![Emotion Classification](/assets/img/emotion_recognition.webp)
+
+* * *
+
+- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to explore stock fundamentals freely - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app).
+![Fundamental Analysis](/assets/img/stock_price.jpg)
+
+
 ## Technical Skill Set
 Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.
 

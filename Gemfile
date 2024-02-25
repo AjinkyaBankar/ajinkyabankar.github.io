@@ -18,3 +18,6 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+# open url in a new browser tab
+gem 'jekyll-target-blank'

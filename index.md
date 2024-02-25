@@ -46,13 +46,36 @@ layout: default
 
 
 ## Projects
+
+- **Stock Price Forecasting using Temporal Fusion Transformer** - In this project, I employ advanced technique to predict stock prices accurately over time. Through temporal fusion modeling, I leverage temporal patterns and external factors to generate reliable forecasts, aiding in informed decision-making in the financial markets. The DOW JONES stocks prices for the next 5 days are predicted with a MAPE of 0.16.
+![TFT](/assets/img/tft.png)
+
+* * *
+
+- **Generative AI-Based Data Analysis for Evaluation of Variations in XPS Characteristics of MoS** - I developed a Large Language Model (LLM)-based assistant to aid my friend's research on MoS2 material. The XPS analysis for conformance of MoS2 revealed that there is significant variation in the Mo3d and S2p plots. The LLM assistant streamlines processes and enhances accuracy in XPS analysis. More details are available in the research paper [here](https://ieeexplore.ieee.org/document/10431152). 
+![LLM](/assets/img/rag.png)
+
+* * *
+
 - **Emotion Recognition from Voice using NLP** - This innovative project employs Natural Language Processing (NLP) to analyze emotions from voice recordings by leveraging Google's speech-to-text API, enabling accurate emotion decoding. Through advanced machine learning algorithms based on Ekman's six basic emotions model, including happiness, sadness, anger, fear, disgust, and surprise, the system interprets emotions intuitively. With applications in mental health support, customer feedback analysis, and interactive voice systems, recognizing emotions from voice enhances interaction quality, enables personalized responses, and offers insights for decision-making.
 ![Emotion Classification](/assets/img/emotion_recognition.webp)
 
 * * *
 
+- **Multi-Modal Shortest Path Optimization for Goods distribution** - Here I developed a shortest path algorithm considering transportation costs via road, rail, air, and ocean, coupled with storage and shortage costs, to determine the most cost-effective route for goods distribution in a complex retail network. The linear mathematical model is developed using PYOMO framework and Gurobi solver is used for achieving optimal solution.
+![Optimization](/assets/img/optimization.png)
+
+* * *
+
+- **Microsoft Teams messaging using Python script** - For automating text notifications to users through Microsoft Teams, the sender's account is authenticated using Selenium skills in Python script. The sender's authentication tokens are used to send One-on-One or Group Teams message using Microsoft Graph API. 
+![Teams Message](/assets/img/teams.png)
+
+* * *
+
 - **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to explore stock fundamentals freely - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app).
 ![Fundamental Analysis](/assets/img/stock_price.jpg)
+
+* * *
 
 
 ## Technical Skill Set
@@ -70,6 +93,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 ## Extra Curricular Activities
 - Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
 - Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.
+- Volunteered for "International Yoga Day" event at Jacksonville Beach, FL, United States, Jun 2023.
 - Invited speaker for presentation on “Higher Education and Career Opportunities in the United States” in Tuljaram Chaturchand College, Baramati, MH, India, Feb 2023.
 - Judged abstracts for the “Graduate Students Appreciation Week,” assessing research methods, results and limitations at Florida International University FL, USA, Feb 2021,
 - Invited speaker for presentation on “Emerging Trends and Technology in Electronics” in National webinar at Tuljaram Chaturchand College, Baramati, MH, India, Feb 2021.
@@ -77,3 +101,14 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 - Judged poster presentations for the event “CURFIU 2019,” assessing visual appeal, content clarity, and presentation effectiveness at Florida International University, FL, USA, Apr 2019.
 
 
+
+## Hobbies and Interests
+- Watch live Cricket matches
+- When I am not in front of the computer, either I am playing with my kids or practicing yoga and meditation.
+- Volunteer for the Art of Living organization to spread the health and happiness in the community.
+
+
+<span style="font-size:0.7em;">Last updated: {{ page.last_modified_at | date: '%d-%B-%Y' }}</span>
+
+                                                              
+                                                              

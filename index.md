@@ -41,6 +41,7 @@ layout: default
 
 **Assistant Professor | Savitribai Phule Pune University, Baramati, MH, India | July 2013 – July 2018**
 - Experience of mapping Image Processing algorithms on FPGAs resulted in a research project grant of INR 170K.
+- Successfully elevated student engagement and academic performance in VLSI Design over a five-year period, driving a remarkable 21% increase in pass rates and an 18% improvement in maximum marks.
 - Creative thinking and experience of development using Real-Time Operating System kernel with micro-controllers resulted in new lab instructions for Advanced Processors course. 
 
 
@@ -108,7 +109,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 25-February-2024</span>
+<span style="font-size:0.7em;">Last updated: 2-March-2024</span>
 
                                                               
                                                               

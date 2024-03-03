@@ -73,7 +73,7 @@ layout: default
 
 * * *
 
-- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to explore stock fundamentals freely - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app){:target="_blank"}.
+- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to visually explore stock fundamentals for free (except Finance sector companies including Banks and NBFCs) - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app){:target="_blank"}.
 ![Fundamental Analysis](/assets/img/stock_price.jpg)
 
 * * *

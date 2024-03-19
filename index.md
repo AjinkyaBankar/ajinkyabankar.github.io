@@ -22,7 +22,7 @@ layout: default
 **Data Scientist | Crowley, Jacksonville, FL, US | June 2022 – Current**
 - Demonstrated exceptional proficiency in prescriptive analytics, particularly in optimization problem formulation, resulting in a noteworthy 3%–4% cost savings for the strategic repositioning of the empty containers. 
 - Demonstrated rapid learning capabilities by swiftly acquiring expertise in natural language processing, leading to the development of a private and secure LLM-based chatbot prototype through adept rapid prototyping.
-- Leveraged SQL skills to fetch, join, clean and preprocess complex data from multiple sources, implementing non-periodic time series predictive model training/deployment contributing to 2% increase in bookings count, customer experience and retention. 
+- Leveraged SQL skills to fetch, join, clean and preprocess complex data from multiple sources, implementing non-periodic time series predictive model training/deployment contributing to 8% increase in bookings count, customer experience and retention. 
 - Brainstorming to share expert advice, statistical analysis to recognize patterns, data interpretation, and advanced machine learning resulted in the building and training of the prototype for predicting tugboat engine maintenance.
 - Ability to work in a fast-paced environment and skills to handle poor quality data resulted in rapidly debugging and scaling existing overbooking prediction model.
 - Demonstrated strong communication skills and applied computer vision expertise in the implementation of port gate automation, effectively capturing chassis numbers attached to trucks.
@@ -109,7 +109,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Pyomo, Matplotlib, Scikit-lea
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 2-March-2024</span>
+<span style="font-size:0.7em;">Last updated: 19-March-2024</span>
 
                                                               
                                                               

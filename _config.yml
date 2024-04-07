@@ -15,12 +15,12 @@ plugins:
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
   - name: ""
-    icon: <a href="https://www.linkedin.com/in/ajinkyabankar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat&logo=linkedin&logoColor=white" /></a>
-  - name: ""  
-    icon: <a href="https://scholar.google.com/citations?user=izR3f94AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-orangered?style=flat&logo=Google%20Scholar&logoColor=white" /></a>
+    icon: <a href="https://www.linkedin.com/in/ajinkyabankar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat&logo=linkedin&logoColor=white" /></a>
   - name: ""  
     icon: <a href="https://github.com/AjinkyaBankar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  
+  - name: ""  
+    icon: <a href="https://scholar.google.com/citations?user=izR3f94AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=Google%20Scholar&logoColor=white" /></a>
+    
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —

@@ -71,7 +71,7 @@ layout: default
 
 * * *
 
-- **Fine-tuning Microsoft Phi-2 Small Language Model for Sentiment Analysis** - I demonstrate the fine-tuning of the Microsoft open-source Phi-2 Language Model for sentiment analysis on financial and economic data. Using the Simple Fine-tuning Trainer (SFTTrainer) with the Parameter-Efficient Fine-Tuning (PEFT) method, I efficiently refine the model's parameters, optimizing computational resources while maintaining accuracy.
+- **Fine-tuning Microsoft Phi-2 Language Model for Sentiment Analysis** - I demonstrate the fine-tuning of the Microsoft open-source Phi-2 Language Model for sentiment analysis on financial and economic data. Using the Simple Fine-tuning Trainer (SFTTrainer) with the Parameter-Efficient Fine-Tuning (PEFT) method, I efficiently refine the model's parameters, optimizing computational resources while maintaining accuracy.
 [GitHub link](https://github.com/AjinkyaBankar/LLM-Fine-tuning-for-Phi-2){:target="_blank"}
 ![Finetune](/assets/img/finetune.png)
 
@@ -129,7 +129,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Hugging Face, LangChain, Vect
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 6-April-2024</span>
+<span style="font-size:0.7em;">Last updated: 7-April-2024</span>
 
                                                               
                                                               

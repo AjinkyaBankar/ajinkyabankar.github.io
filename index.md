@@ -48,13 +48,32 @@ layout: default
 
 ## Projects
 
-- **Stock Price Forecasting using Temporal Fusion Transformer** - In this project, I employ advanced technique to predict stock prices accurately over time. Through temporal fusion modeling, I leverage temporal patterns and external factors to generate reliable forecasts, aiding in informed decision-making in the financial markets. The DOW JONES stocks prices for the next 5 days are predicted with a MAPE of 0.16.
+- **Stock Price Forecasting using Temporal Fusion Transformer** - In this project, I employ advanced technique to predict stock prices accurately over time. Through temporal fusion modeling, I leverage temporal patterns and external factors to generate reliable forecasts, aiding in informed decision-making in the financial markets. The DOW JONES stocks prices for the next 5 days are predicted with a MAPE of 0.16. 
+[GitHub link](https://github.com/AjinkyaBankar/Stock-Price-Prediction-Temporal-Fusion-Transformer){:target="_blank"}
 ![TFT](/assets/img/tft.png)
+
+* * *
+
+- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to visually explore stock fundamentals for free (except Finance sector companies including Banks and NBFCs) - [Web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app){:target="_blank"}.
+[GitHub link](https://github.com/AjinkyaBankar/Fundamental-Analysis-NSE-Stocks){:target="_blank"}
+![Fundamental Analysis](/assets/img/stock_price.jpg)
 
 * * *
 
 - **Generative AI-Based Data Analysis for Evaluation of Variations in XPS Characteristics of MoS** - I developed a Large Language Model (LLM)-based assistant to aid my friend's research on MoS2 material. The XPS analysis for conformance of MoS2 revealed that there is significant variation in the Mo3d and S2p plots. The LLM assistant streamlines processes and enhances accuracy in XPS analysis. More details are available in the research paper [here](https://ieeexplore.ieee.org/document/10431152){:target="_blank"}. 
 ![LLM](/assets/img/rag.png)
+
+* * *
+
+- **Homeopathy Assistant: Leveraging Large Language Models for Remedies** - This project utilizes Large Language Model (LLM) to streamline the process of prescribing remedies, revolutionizing how homeopathy doctors address patient health concerns. With a focus on the holistic approach of homeopathy, it aims to provide efficient solutions leveraging advanced language processing tailored to individual symptoms and conditions, saving time for practitioners.
+[GitHub link](https://github.com/AjinkyaBankar/GenAI-Homeopathy-Assistant){:target="_blank"}
+![Homeopathy](/assets/img/homeopathy.png)
+
+* * *
+
+- **Fine-tuning Microsoft Phi-2 Small Language Model for Sentiment Analysis** - I demonstrate the fine-tuning of the Microsoft open-source Phi-2 Language Model for sentiment analysis on financial and economic data. Using the Simple Fine-tuning Trainer (SFTTrainer) with the Parameter-Efficient Fine-Tuning (PEFT) method, I efficiently refine the model's parameters, optimizing computational resources while maintaining accuracy.
+[GitHub link](https://github.com/AjinkyaBankar/LLM-Fine-tuning-for-Phi-2){:target="_blank"}
+![Finetune](/assets/img/finetune.png)
 
 * * *
 
@@ -68,13 +87,14 @@ layout: default
 
 * * *
 
-- **Microsoft Teams messaging using Python script** - For automating text notifications to users through Microsoft Teams, the sender's account is authenticated using Selenium skills in Python script. The sender's authentication tokens are used to send One-on-One or Group Teams message using Microsoft Graph API. 
-![Teams Message](/assets/img/teams.png)
+- **Capacitated Vehicle Routing Problem** - In this project, I tackle the classical operations research problem. The goal is to design optimal delivery routes and assign vehicles to them in order to minimize the total distance traveled. To accomplish this task, I employ the PYOMO framework, a powerful optimization modeling tool, along with the open-source GLPK solver.
+[GitHub link](https://github.com/AjinkyaBankar/Capacitated-Vehicle-Routing-Problem){:target="_blank"}
+![CVRP](/assets/img/CVRP.png)
 
 * * *
 
-- **Fundamental Analysis of the Stocks listed in NSE, India** - Explore my educational and enjoyable project, delving into the financial markets to understand stocks listed on the National Stock Exchange (NSE). Through comprehensive fundamental analysis techniques, I aim to uncover insights into company performance, utilizing financial statements and key indicators to evaluate growth prospects and profitability. Access the web app to visually explore stock fundamentals for free (except Finance sector companies including Banks and NBFCs) - [web app link](https://ajinkyabankar-fundamental-analysis-app-i11dik.streamlit.app){:target="_blank"}.
-![Fundamental Analysis](/assets/img/stock_price.jpg)
+- **Microsoft Teams messaging using Python script** - For automating text notifications to users through Microsoft Teams, the sender's account is authenticated using Selenium skills in Python script. The sender's authentication tokens are used to send One-on-One or Group Teams message using Microsoft Graph API. 
+![Teams Message](/assets/img/teams.png)
 
 * * *
 
@@ -109,7 +129,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Hugging Face, LangChain, Vect
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 5-April-2024</span>
+<span style="font-size:0.7em;">Last updated: 6-April-2024</span>
 
                                                               
                                                               

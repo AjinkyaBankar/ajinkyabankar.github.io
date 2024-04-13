@@ -93,11 +93,6 @@ layout: default
 
 * * *
 
-- **Microsoft Teams messaging using Python script** - For automating text notifications to users through Microsoft Teams, the sender's account is authenticated using Selenium skills in Python script. The sender's authentication tokens are used to send One-on-One or Group Teams message using Microsoft Graph API. 
-![Teams Message](/assets/img/teams.png)
-
-* * *
-
 
 ## Technical Skill Set
 Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Hugging Face, LangChain, VectorDBs, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, AWS, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.

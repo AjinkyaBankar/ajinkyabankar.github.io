@@ -95,7 +95,7 @@ layout: default
 
 
 ## Technical Skill Set
-Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Hugging Face, LangChain, VectorDBs, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, AWS, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.
+Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugging Face, LangChain, VectorDBs, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, AWS, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.
 
 
 
@@ -124,7 +124,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, Hugging Face, LangChain, Vect
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 7-April-2024</span>
+<span style="font-size:0.7em;">Last updated: 6-May-2024</span>
 
                                                               
                                                               

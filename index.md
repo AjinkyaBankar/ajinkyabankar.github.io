@@ -100,6 +100,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Awards and Recognition
+- Crowley Innovation Excellence Award for solving critical business problem in May 2024.
 - Crowley TOPS awards for displaying high performance value in September 2022, August 2023 and Jan 2024.
 - Featured in Crowley's blog post ["Data-driven Decision-making in the Supply Chain."](https://www.crowley.com/news-and-media/culture/data-driven-decision-making-in-the-supply-chain/){:target="_blank"}
 - Dissertation Year Fellowship award for Fall 2021 and Spring 2022 semesters by Florida International University.
@@ -124,7 +125,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 6-May-2024</span>
+<span style="font-size:0.7em;">Last updated: 28-May-2024</span>
 
                                                               
                                                               

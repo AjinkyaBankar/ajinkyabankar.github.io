@@ -28,7 +28,7 @@ layout: default
 - Demonstrated strong communication skills and applied computer vision expertise in the implementation of port gate automation, effectively capturing chassis numbers attached to trucks.
 
 
-**Graduate Researcher | Florida International University, Miami, FL, US | August 2018 – April 2022**
+**Graduate Research Assistant | Florida International University, Miami, FL, US | August 2018 – April 2022**
 - Skills in developing deterministic and testable code with expertise in real-time system design as evidenced by novel temperature estimation framework for vehicle Electronic Control Units (ECUs).
 - Ability to review others work and solid advanced mathematics fundamentals invented Deep Neural Network sensitivity analysis method for accuracy maximization by 0.5 – 4.2% for standard architectures and datasets.
 - Innovative thinking, knowledge of statistics, and optimization skills demonstrated by thermal-aware mapping of Deep Neural Network neurons on 3D memory banks for accuracy maximization in the range 0.18 – 47.91%.

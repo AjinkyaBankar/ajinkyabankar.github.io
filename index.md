@@ -13,8 +13,8 @@ layout: default
 ## Education
 
 | Ph.D., Electrical & Computer Engineering | Florida International University  | May 2022 |
-| M.E., Electronics (Digital Systems)      | Savitribai Phule Pune University | Sep 2013 |                   
-| B.E., Electronics & Telecommunication    | Savitribai Phule Pune University | Aug 2010 |
+| M.E., Electronics (Digital Systems)      | Savitribai Phule Pune University  | Sep 2013 |                   
+| B.E., Electronics & Telecommunication    | Savitribai Phule Pune University  | Aug 2010 |
 
 
 

@@ -20,6 +20,7 @@ layout: default
 
 ## Work Experience
 **Data Scientist | Crowley, Jacksonville, FL, US | June 2022 – Current**
+- Designed and implemented a linear optimization model for strategic Liner Tradelane Network, generating optimal recommendations that increase weekly contribution margins by 10%, while incorporating complex commercial, financial, and operational constraints such as port calls, vessel capacities, and transit times.
 - Demonstrated exceptional proficiency in prescriptive analytics, particularly in optimization problem formulation, resulting in a noteworthy 3%–4% cost savings for the strategic repositioning of the empty containers. 
 - Demonstrated rapid learning capabilities by swiftly acquiring expertise in natural language processing, leading to the development of a private and secure LLM-based chatbot prototype through adept rapid prototyping.
 - Leveraged SQL skills to fetch, join, clean and preprocess complex data from multiple sources, implementing non-periodic time series predictive model training/deployment contributing to 8% increase in bookings count, customer experience and retention. 
@@ -108,6 +109,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Extra Curricular Activities
+- Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
 - Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
 - Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.
 - Volunteered for "International Yoga Day" event at Jacksonville Beach, FL, United States, Jun 2023.
@@ -125,7 +127,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 28-May-2024</span>
+<span style="font-size:0.7em;">Last updated: 2-Dec-2024</span>
 
                                                               
                                                               

@@ -109,6 +109,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Extra Curricular Activities
+- Delivered a short guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
 - Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
 - Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
 - Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.
@@ -127,7 +128,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 2-Dec-2024</span>
+<span style="font-size:0.7em;">Last updated: 12-Apr-2025</span>
 
                                                               
                                                               

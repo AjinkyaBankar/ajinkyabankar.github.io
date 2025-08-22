@@ -19,10 +19,13 @@ layout: default
 
 
 ## Work Experience
-**Data Scientist | Crowley, Jacksonville, FL, US | June 2022 – Current**
+**Data Scientist-II | Crowley, Jacksonville, FL, US | May 2025 – Current**
+- Built a scalable, secure LLM-based chatbot for Market Intelligence by quickly mastering required technologies and leveraging multiple AWS cloud services.
+
+
+**Data Scientist-I | Crowley, Jacksonville, FL, US | June 2022 – April 2025**
 - Designed and implemented a linear optimization model for strategic Liner Tradelane Network, generating optimal recommendations that increase weekly contribution margins by 10%, while incorporating complex commercial, financial, and operational constraints such as port calls, vessel capacities, and transit times.
 - Demonstrated exceptional proficiency in prescriptive analytics, particularly in optimization problem formulation, resulting in a noteworthy 3%–4% cost savings for the strategic repositioning of the empty containers. 
-- Demonstrated rapid learning capabilities by swiftly acquiring expertise in natural language processing, leading to the development of a private and secure LLM-based chatbot prototype through adept rapid prototyping.
 - Leveraged SQL skills to fetch, join, clean and preprocess complex data from multiple sources, implementing non-periodic time series predictive model training/deployment contributing to 8% increase in bookings count, customer experience and retention. 
 - Brainstorming to share expert advice, statistical analysis to recognize patterns, data interpretation, and advanced machine learning resulted in the building and training of the prototype for predicting tugboat engine maintenance.
 - Ability to work in a fast-paced environment and skills to handle poor quality data resulted in rapidly debugging and scaling existing overbooking prediction model.
@@ -109,7 +112,8 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Extra Curricular Activities
-- Delivered a short guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
+- Served as Ph.D. thesis examiner for “Multiclass Arrhythmia Detection from ECG Using Deep Convolutional Neural Network” at G. H. Raisoni College of Engineering and Management, Pune affiliated to S. P. Pune University (Doctor of Philosophy in Science and Technology), June 2025.
+- Delivered a guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
 - Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
 - Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
 - Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.

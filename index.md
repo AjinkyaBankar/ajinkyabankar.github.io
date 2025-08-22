@@ -112,7 +112,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Extra Curricular Activities
-- Served as Ph.D. thesis examiner for “Multiclass Arrhythmia Detection from ECG Using Deep Convolutional Neural Network” at G. H. Raisoni College of Engineering and Management, Pune affiliated to S. P. Pune University (Doctor of Philosophy in Science and Technology), June 2025.
+- Served as Ph.D. dissertation examiner for “Multiclass Arrhythmia Detection from ECG Using Deep Convolutional Neural Network” at G. H. Raisoni College of Engineering and Management, Pune affiliated to S. P. Pune University (Doctor of Philosophy in Science and Technology), June 2025.
 - Delivered a guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
 - Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
 - Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
@@ -132,7 +132,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 12-Apr-2025</span>
+<span style="font-size:0.7em;">Last updated: 22-Aug-2025</span>
 
                                                               
                                                               

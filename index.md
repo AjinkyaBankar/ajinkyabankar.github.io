@@ -21,7 +21,7 @@ layout: default
 ## Work Experience
 **Data Scientist-II | Crowley, Jacksonville, FL, US | May 2025 – Current**
 - Built a scalable, secure LLM-based chatbot for Market Intelligence by quickly mastering required technologies and leveraging multiple AWS cloud services.
-
+- Developed an LLM-powered AI agent to parse customer order emails and documents, automating ingestion into the Transportation Management System (TMS), reducing manual processing time by 70% and improving order handling efficiency.
 
 **Data Scientist-I | Crowley, Jacksonville, FL, US | June 2022 – April 2025**
 - Designed and implemented a linear optimization model for strategic Liner Tradelane Network, generating optimal recommendations that increase weekly contribution margins by 10%, while incorporating complex commercial, financial, and operational constraints such as port calls, vessel capacities, and transit times.
@@ -102,6 +102,15 @@ layout: default
 Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugging Face, LangChain, VectorDBs, Pyomo, Matplotlib, Scikit-learn, Pandas, CPLEX, Gurobi, Linux, Github, AWS, Azure OpenAI and Form Recognizer, C/C++, Embedded C, Matlab.
 
 
+## Publications
+- S. Shendokar, N. Raykar, A. Bankar and S. Aravamudhan, "Generative AI-Based Data Analysis for Evaluation of Variations in XPS Characteristics of MoS2," in 2023 IEEE 3rd International Conference on Smart Technologies for Power, Energy and Control (STPEC), Bhubaneswar, India, 2023, pp. 1-5, doi: <a href="https://doi.org/10.1109/STPEC59253.2023.10431152" target="_blank">https://doi.org/10.1109/STPEC59253.2023.10431152</a>
+- A. S. Bankar, S. Sha, J. Bhimani, V. Chaturvedi and G. Quan, "Thermal Aware System-Wide Reliability Optimization for Automotive Distributed Computing Applications," in IEEE Transactions on Vehicular Technology, vol. 71, no. 10, pp. 10442-10457, Oct. 2022, doi: <a href="https://doi.org/10.1109/TVT.2022.3185978" target="_blank">https://doi.org/10.1109/TVT.2022.3185978</a>
+- A. S. Bankar, “Thermal Aware Design Automation of the Electronic Control System for Autonomous Vehicles,” Ph.D. Dissertation, Dept. of Electrical and Computer Engineering, Florida International University, FL, USA, May 2022, doi: <a href="https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=6419&context=etd" target="_blank">https://digitalcommons.fiu.edu/cgi/viewcontent.cgi?article=6419&context=etd</a>
+- A. S. Bankar, S. Sha, V. Chaturvedi and G. Quan, "Thermal Aware Lifetime Reliability Optimization for Automotive Distributed Computing Applications," 2020 IEEE 38th International Conference on Computer Design (ICCD), Hartford, CT, USA, 2020, pp. 498-505, doi: <a href="https://doi.org/10.1109/ICCD50377.2020.00090" target="_blank">https://doi.org/10.1109/ICCD50377.2020.00090</a>
+- S. Sha, A. S. Bankar, X. Yang, W. Wen, and G. Quan, “On Fundamental Principles for Thermal-Aware Design on Periodic Real-time Multi-core Systems,” ACM Trans. Des. Autom. Electron. Syst., Feb. 2020, <a href="https://doi.org/10.1145/3378063" target="_blank">https://doi.org/10.1145/3378063</a>
+- A.S. Patil, J.P. Gawande, A. S. Bankar, “Heart Sound Signal Analysis and Its Implementation in VHDL,” Innovations in Electronics and Communication Engineering, Springer Singapore, Aug. 2018, <a href="https://doi.org/10.1007/978-981-10-8204-7_23" target="_blank">https://doi.org/10.1007/978-981-10-8204-7_23</a>
+- A. S. Bankar, B. S. Shah, P.K. Kadbe, “Interstage Pipeline VLSI Architecture for 2-D DWT,” International Journal of Engineering Research & Technology (IJERT), Vol. 2 Issue 5, May. 2013.
+
 
 ## Awards and Recognition
 - Crowley Innovation Excellence Award for solving critical business problem in May 2024.
@@ -112,6 +121,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 
 
 ## Extra Curricular Activities
+- Serving as a member of the Enterprise Architecture Review Board at Crowley (since Jan 2025), contributing to strategic technology decisions, solution governance, and alignment of IT initiatives with business objectives.
 - Served as Ph.D. dissertation examiner for “Multiclass Arrhythmia Detection from ECG Using Deep Convolutional Neural Network” at G. H. Raisoni College of Engineering and Management, Pune affiliated to S. P. Pune University (Doctor of Philosophy in Science and Technology), June 2025.
 - Delivered a guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
 - Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
@@ -132,7 +142,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 22-Aug-2025</span>
+<span style="font-size:0.7em;">Last updated: 13-Sep-2025</span>
 
                                                               
                                                               

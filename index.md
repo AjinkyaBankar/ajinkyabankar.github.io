@@ -36,6 +36,9 @@ layout: default
 - Skills in developing deterministic and testable code with expertise in real-time system design as evidenced by novel temperature estimation framework for vehicle Electronic Control Units (ECUs).
 - Ability to review others work and solid advanced mathematics fundamentals invented Deep Neural Network sensitivity analysis method for accuracy maximization by 0.5 – 4.2% for standard architectures and datasets.
 - Innovative thinking, knowledge of statistics, and optimization skills demonstrated by thermal-aware mapping of Deep Neural Network neurons on 3D memory banks for accuracy maximization in the range 0.18 – 47.91%.
+- Algorithm design skills and strong mathematics fundamentals resulting in a 191x compute efficient reliability estimation method for Automotive ECU network.
+- Adaptability along with experience of function interpolation and mathematical programming demonstrated by the framework of latency minimization for automotive computing applications.
+
 
 
 **Technical Consultant | Sujlam Electronics, Baramati, MH, India | March 2016 – December 2017**
@@ -125,7 +128,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Served as Ph.D. dissertation examiner for “Multiclass Arrhythmia Detection from ECG Using Deep Convolutional Neural Network” at G. H. Raisoni College of Engineering and Management, Pune affiliated to S. P. Pune University (Doctor of Philosophy in Science and Technology), June 2025.
 - Delivered a guest lecture series on "Fundamentals of Large Language Models" at Wichita State University, April 2025.
 - Appointed as Cultural, communications and membership director for Maharashtra Mandal, Jacksonville, for the year 2025, leading initiatives to promote cultural engagement and community outreach.
-- Steering committee member of Asian American Pacific Islander Business resource group at Crowley.
+- Steering committee member of Asian American Pacific Islander Business resource group at Crowley since August 2023.
 - Volunteered for the "Real Men Read" event at San Jose Elementary School, Jacksonville, FL, United States, Nov 2023.
 - Volunteered for "International Yoga Day" event at Jacksonville Beach, FL, United States, Jun 2023.
 - Invited speaker for presentation on “Higher Education and Career Opportunities in the United States” in Tuljaram Chaturchand College, Baramati, MH, India, Feb 2023.
@@ -142,7 +145,7 @@ Python, PyTorch, Dataiku, SQL, PowerBI, Snowflake, MLFlow, AirFlow, Docker, Hugg
 - Volunteer for the Art of Living organization to spread the health and happiness in the community.
 
 
-<span style="font-size:0.7em;">Last updated: 13-Sep-2025</span>
+<span style="font-size:0.7em;">Last updated: 15-Sep-2025</span>
 
                                                               
                                                               
